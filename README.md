@@ -1,2 +1,2 @@
 # CSI-Portfolio
-timepass
+A self made personal profile thorugh Intermmediate Web Dev tools
